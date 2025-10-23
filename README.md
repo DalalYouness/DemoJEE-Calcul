@@ -38,7 +38,4 @@ L’application illustre **deux types de déploiement** :
 
 ---
 
-## ▶️ Exécution du projet
-1. **Importer** le projet dans votre IDE (Eclipse, IntelliJ IDEA, NetBeans, etc.).  
-2. **Déployer** sur un serveur Tomcat ou compatible JEE.  
-3. **Accéder à l’application** via :  
+ 

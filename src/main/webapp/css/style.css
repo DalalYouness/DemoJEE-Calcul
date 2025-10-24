@@ -1,0 +1,14 @@
+
+div {
+	border: 2px solid gray;
+	padding: 10px;
+	margin: 10px 0px 0px;
+	font-size: 20px;
+	width: 500px;
+}
+
+input {
+	padding: 2px 2px 2px 8px;
+    caret-color: #cb7373;
+}
+

@@ -23,6 +23,7 @@ public class ServletCalculController extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		// on va faire un forwarding vers la vue (jsp file)
+		req.setAttribute("modelCalcul", new CalculModel());
 		req.getRequestDispatcher("VueCalculSum.jsp").forward(req, resp);
 	}
 
